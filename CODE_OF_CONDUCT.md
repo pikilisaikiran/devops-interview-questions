@@ -20,7 +20,7 @@ We do not tolerate:
 
 ## 🔧 Reporting Violations
 If you experience or witness violations of this Code of Conduct, please report them:  
-📧 **Contact:** [your.email@example.com]  
+📧 **Contact:** [pikilisaikiran2000@gmail.com]  
 All reports will be reviewed confidentially and handled with care.  
 
 ## ⚖️ Enforcement
