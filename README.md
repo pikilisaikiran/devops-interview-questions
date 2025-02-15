@@ -29,9 +29,9 @@ We cover **various DevOps domains**, including:
 ---
 
 ## 📖 Structure  
-Each topic contains:  
+The Repo contains:  
 - 📜 **questions/** → Covers various topics
-- 🛠️ **<topic>/** → Concept explanations & Hands-on exercises & real-world scenarios  
+- 🛠️ **topic/** → Concept explanations & Hands-on exercises & real-world scenarios  
 - 📄 **README.md** → Overview & learning roadmap  
 
 ```
@@ -48,7 +48,7 @@ questions/
 ## 🛠 How to Use  
 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/devops-interview-questions.git
+git clone https://github.com/pikilisaikiran/devops-interview-questions.git
 cd devops-interview-questions
 ```
 2️⃣ **Browse Topics**  
@@ -68,7 +68,7 @@ We **welcome contributions** from the community! 🏆
 3. Add new questions, improvements, or fixes.  
 4. **Submit a Pull Request** following our [Contribution Guidelines](CONTRIBUTING.md).  
 
-💡 Need inspiration? Check the [open issues](https://github.com/your-username/devops-interview-questions/issues) for ideas!
+💡 Need inspiration? Check the [open issues](https://github.com/pikilisaikiran/devops-interview-questions/issues) for ideas!
 
 ---
 
